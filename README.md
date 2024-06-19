@@ -1,1 +1,2 @@
-# car2
+# banner
+Código de html para aula de Pensamento Computacional.
